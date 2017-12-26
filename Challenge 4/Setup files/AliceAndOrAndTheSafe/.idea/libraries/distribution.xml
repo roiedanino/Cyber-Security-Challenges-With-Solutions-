@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="distribution">
+    <CLASSES>
+      <root url="file://$USER_HOME$/cling/distribution" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

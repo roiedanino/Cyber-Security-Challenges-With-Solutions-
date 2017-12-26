@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AliceOrAndTheSafe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AliceOrAndTheSafe_jar</output-path>
+    <root id="archive" name="AlisAndOrAndTheSafe.jar">
+      <element id="module-output" name="AlisAndOrAndTheSafe" />
+      <element id="library" level="application" name="java" />
+      <element id="library" level="application" name="java2" />
+      <element id="library" level="application" name="java3" />
+      <element id="library" level="application" name="java1" />
+      <element id="library" level="project" name="distribution" />
+      <element id="library" level="project" name="website" />
+    </root>
+  </artifact>
+</component>

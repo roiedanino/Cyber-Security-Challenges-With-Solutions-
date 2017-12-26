@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TheBlackBox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TheBlackBox_jar</output-path>
+    <root id="archive" name="CyberSecurity.jar">
+      <element id="module-output" name="CyberSecurity" />
+    </root>
+  </artifact>
+</component>
